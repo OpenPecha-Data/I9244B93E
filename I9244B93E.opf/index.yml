@@ -1,0 +1,151 @@
+id: 60cd2aca6d244782a1bbf30f6420601c
+annotation_type: index
+revision: '00001'
+annotations:
+  a020ddda5863475f8bd891abe88711f4:
+    base: C9C5.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 10
+    - title: Preface
+      span:
+        start: 11
+        end: 20
+    - title: 'Chapter I: Anityavarga'
+      span:
+        start: 21
+        end: 4590
+    - title: 'Chapter II: Kāmavarga'
+      span:
+        start: 4591
+        end: 6853
+    - title: 'Chapter III: Tṛṣṇāvarga'
+      span:
+        start: 6854
+        end: 9204
+    - title: 'Chapter IV: Apramādavarga'
+      span:
+        start: 9205
+        end: 13577
+    - title: 'Chapter V: Priyavarga'
+      span:
+        start: 13578
+        end: 16555
+    - title: 'Chapter VI: Śīlavarga'
+      span:
+        start: 16556
+        end: 18641
+    - title: 'Chapter VII: Sucaritavarga'
+      span:
+        start: 18642
+        end: 19987
+    - title: 'Chapter VIII: Vācavarga'
+      span:
+        start: 19988
+        end: 21706
+    - title: 'Chapter IX: Karmavarga'
+      span:
+        start: 21707
+        end: 23905
+    - title: 'Chatper X: Śraddhāvarga'
+      span:
+        start: 23906
+        end: 25936
+    - title: 'Chapter XI: Śramaṇavarga'
+      span:
+        start: 25937
+        end: 27552
+    - title: 'Chapter XII: Mārgavarga'
+      span:
+        start: 27553
+        end: 30025
+    - title: 'Chapter XIII: Satkāravarga'
+      span:
+        start: 30026
+        end: 32036
+    - title: 'Chapter XIV: Drohavarga'
+      span:
+        start: 32037
+        end: 34110
+    - title: 'Chapter XV: Smṛtivarga'
+      span:
+        start: 34111
+        end: 37446
+    - title: 'Chapter XVI: Prakīrṇakavarga'
+      span:
+        start: 37447
+        end: 40138
+    - title: 'Chapter XVII: Udakavarga'
+      span:
+        start: 40139
+        end: 41521
+    - title: 'Chapter XXIII: Puṣpavarga'
+      span:
+        start: 41522
+        end: 44888
+    - title: 'Chapter XIX: Aśvavarga'
+      span:
+        start: 44889
+        end: 47760
+    - title: 'Chapter XX: Krodhavarga'
+      span:
+        start: 47761
+        end: 50425
+    - title: 'Chapter XXI: Tathāgatavarga'
+      span:
+        start: 50426
+        end: 52544
+    - title: 'Chapter XXII: Śrutavarga'
+      span:
+        start: 52545
+        end: 54782
+    - title: 'Chapter XXIII: Ātmavarga'
+      span:
+        start: 54783
+        end: 57451
+    - title: 'Chapter XXIV: Peyālavarga'
+      span:
+        start: 57452
+        end: 61089
+    - title: 'Chapter XXV: Mitravarga'
+      span:
+        start: 61090
+        end: 63798
+    - title: 'Chapter XXVI: Nirvāṇavarga'
+      span:
+        start: 63799
+        end: 67543
+    - title: 'Chapter XXVII: Paśyavarga'
+      span:
+        start: 67544
+        end: 73160
+    - title: 'Chapter XXVIII: Pāpavarga'
+      span:
+        start: 73161
+        end: 77623
+    - title: 'Chapter XXIX: Yugavarga'
+      span:
+        start: 77624
+        end: 86067
+    - title: 'Chapter XXX: Sukhavarga'
+      span:
+        start: 86068
+        end: 91826
+    - title: 'Chapter XXXI: Cittavarga'
+      span:
+        start: 91827
+        end: 99129
+    - title: 'Chapter XXXII: Bhikṣuvarga'
+      span:
+        start: 99130
+        end: 108920
+    - title: 'Chapter XXXIII: Brāhmaṇavarga'
+      span:
+        start: 108921
+        end: 120237
+    - title: Colophon
+      span:
+        start: 120238
+        end: 120637
